@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Agent Dotnet
+  name: windowsAgentDotnet
 
 variables:
   BuildConfiguration: release
